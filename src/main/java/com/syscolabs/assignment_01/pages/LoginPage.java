@@ -19,12 +19,6 @@ public class LoginPage {
         syscoLabUIOgm.driver.manage().window().maximize();
     }
 
-    public static void loadLoginPage1(Capabilities capabilities, String url) {
-        syscoLabUIOgm = new SyscoLabWUI(capabilities);
-        syscoLabUIOgm.navigateTo(url);
-        syscoLabUIOgm.driver.manage().window().maximize();
-
-    }
 
     public void quitDriver() {
         if (syscoLabUIOgm != null) {

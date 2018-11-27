@@ -24,16 +24,7 @@ public class Login  {
         }
     }
 
-    public static void loadLoginPage1() {
 
-        if (Constants.RUN_LOCALLY) {
-            DriverSetUpUtil.setToRunLocally();
-            DesiredCapabilities capabilities = null;
-            loginPage.loadLoginPage(capabilities, Constants.APP_URL);
-        } else {
-            loginPage.loadLoginPage(DriverSetUpUtil.setToRunRemotely(Constants.APP_OS), Constants.APP_URL);
-        }
-    }
 
 
     public static void quiteDriver() {
