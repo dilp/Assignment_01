@@ -1,37 +1,37 @@
 package com.syscolabs.assignment_01.functions;
 
-import com.syscolabs.assignment_01.common.Constants;
-import com.syscolabs.assignment_01.pages.LoginPage;
-import com.syscolabs.assignment_01.utils.DriverSetUpUtil;
-import org.openqa.selenium.remote.DesiredCapabilities;
+import com.syscolabs.assignment_01.pages.BasePage;
+import com.syscolabs.assignment_01.pages.LoginPage.LoginPage;
+import com.syscolabs.assignment_01.utils.LoggerUtil;
 
-/**
- * Created by Rifad on 5/21/18.
- */
-public class Login  {
+public class Login extends BasePage {
 
-    public static LoginPage loginPage = new LoginPage();
+    public static LoginPage objLoginPage = new LoginPage();
+    static boolean flag = false;
 
+    public static void enterInvalidEmailFormat(String email) {
+        objLoginPage.setEmail(email);
+        objLoginPage.clickLoginButton();
+    }
 
-    public static void loadLoginPage() {
+    public static boolean clickOnLoginWithEmptyEmailAndPassword(String message) {
 
-        if (Constants.RUN_LOCALLY) {
-            DriverSetUpUtil.setToRunLocally();
-            DesiredCapabilities capabilities = null;
-            loginPage.loadLoginPage(capabilities, Constants.APP_URL);
-        } else {
-            loginPage.loadLoginPage(DriverSetUpUtil.setToRunRemotely(Constants.APP_OS), Constants.APP_URL);
+        objLoginPage.clickLoginButton();
+        if (objLoginPage.getEmailError().toLowerCase().contains(message) && objLoginPage.getPasswordError().toLowerCase().contains(message)) {
+            flag = true;
         }
+        return flag;
     }
 
-
-
-
-    public static void quiteDriver() {
-        loginPage.quitDriver();
-    }
-
-    public static void searchGoogle() {
-        loginPage.enterText("Apple");
+    public static void loginwithCorrectUserNameAndPassword(String UserName, String Password) {
+        try {
+            objLoginPage.clickLoginlink();
+            objLoginPage.setEmail(UserName);
+            objLoginPage.setPassword(Password);
+            objLoginPage.clickLoginButton();
+            objLoginPage.waitForHomePage();
+        } catch (Exception e) {
+            LoggerUtil.logERROR("failed to login with correct username password", e);
+        }
     }
 }

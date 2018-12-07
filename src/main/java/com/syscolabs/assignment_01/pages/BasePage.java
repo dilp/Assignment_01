@@ -11,7 +11,7 @@ public class BasePage {
 
     protected static SyscoLabUI syscoLabUIOgm;
     public BasePage() {
-        //loadMyAccountPage();
+
     }
 
         public static void loadMyAccountPage(Capabilities capabilities, String url) {

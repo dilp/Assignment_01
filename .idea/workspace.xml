@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a10323bb-0f8d-4c77-bbd2-c79733bf8970" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="cc1b777d-cfb7-4d83-87b9-dafaaf44a17c" name="Default Changelist" comment="Adding Test Scripts for Assignment">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/CreditCardInfomation/CreditCardInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/ShoppingCart/ShoppingCartPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/Login1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/MyAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/MyAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/HomePage/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/HomePage/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/LoginPage1/LoginPage1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/LoginPage/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/ShoppingCart/ShoppingCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/myAccount/myAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/myAccount/myAccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/chrome_driver/windows/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/chrome_driver/windows/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/syscolabs/assignment_01/tests/LoginTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/syscolabs/assignment_01/tests/LoginTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/syscolabs/assignment_01/tests/LoginTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/syscolabs/assignment_01/tests/MyAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/syscolabs/assignment_01/tests/MyAccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/syscolabs/assignment_01/utils/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/syscolabs/assignment_01/utils/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chrome_driver/windows/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chrome_driver/windows/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/syscolabs/assignment_01/functions/Home.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/syscolabs/assignment_01/functions/Home.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/syscolabs/assignment_01/functions/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/syscolabs/assignment_01/functions/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/syscolabs/assignment_01/functions/Login1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/syscolabs/assignment_01/functions/Login1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/syscolabs/assignment_01/functions/MyAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/syscolabs/assignment_01/functions/MyAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/syscolabs/assignment_01/pages/HomePage/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/syscolabs/assignment_01/pages/HomePage/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/syscolabs/assignment_01/pages/LoginPage1/LoginPage1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/syscolabs/assignment_01/pages/LoginPage1/LoginPage1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/syscolabs/assignment_01/pages/ShoppingCart/ShoppingCart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/syscolabs/assignment_01/pages/myAccount/myAccountPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/syscolabs/assignment_01/pages/myAccount/myAccountPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/syscolabs/assignment_01/tests/LoginTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/syscolabs/assignment_01/tests/LoginTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/syscolabs/assignment_01/tests/MyAccountTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/syscolabs/assignment_01/tests/MyAccountTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/syscolabs/assignment_01/utils/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/syscolabs/assignment_01/utils/TestBase.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,32 +45,38 @@
     <session id="-2135699628">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.16" value="1" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="7" />
+          <entry key="class" value="21" />
+          <entry key="java" value="125" />
+          <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="7" />
+          <entry key="CLASS" value="21" />
+          <entry key="JAVA" value="125" />
+          <entry key="XML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="9" />
-          <entry key="java" value="77" />
+          <entry key="dummy" value="12" />
+          <entry key="java" value="13075" />
+          <entry key="txt" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="77" />
-          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="JAVA" value="13075" />
+          <entry key="PLAIN_TEXT" value="54" />
         </counts>
       </usages-collector>
     </session>
@@ -50,73 +84,128 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/HomePage/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+            <state relative-caret-position="203">
+              <caret line="242" column="33" selection-start-line="242" selection-start-column="33" selection-end-line="242" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#4323#4324#0" expanded="true" />
+                <element signature="e#4380#4381#0" expanded="true" />
+                <element signature="e#6504#6505#0" expanded="true" />
+                <element signature="e#6578#6579#0" expanded="true" />
+                <element signature="e#5547#5548#0" expanded="true" />
+                <element signature="e#5620#5621#0" expanded="true" />
+                <element signature="e#7083#7084#0" expanded="true" />
+                <element signature="e#7144#7145#0" expanded="true" />
+                <element signature="e#10169#10170#0" expanded="true" />
+                <element signature="e#10232#10233#0" expanded="true" />
+                <element signature="e#10611#10612#0" expanded="true" />
+                <element signature="e#10687#10688#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/ShoppingCart/ShoppingCartPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="118">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3120#3121#0" expanded="true" />
+                <element signature="e#3197#3198#0" expanded="true" />
+                <element signature="e#4103#4104#0" expanded="true" />
+                <element signature="e#4157#4158#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/syscolabs/assignment_01/tests/MyAccountTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="64" column="27" lean-forward="true" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/Home.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-933">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1935#1936#0" expanded="true" />
+                <element signature="e#1986#1987#0" expanded="true" />
+                <element signature="e#2049#2050#0" expanded="true" />
+                <element signature="e#2112#2113#0" expanded="true" />
+                <element signature="e#4190#4191#0" expanded="true" />
+                <element signature="e#4220#4221#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/Login.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/MyAccount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/CreditCardInfomation/CreditCardInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/BasePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/Login.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/syscolabs/assignment_01/tests/LoginTest1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/LoginPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/NavigateToMyAccount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/LandingPage/LandingPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/syscolabs/assignment_01/tests/LoginTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/utils/ExcelUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/syscolabs/assignment_01/utils/TestBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="42" column="50" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="50" />
+            <state relative-caret-position="408">
+              <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -132,32 +221,58 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>openqa</find>
+      <find>Shopping</find>
+      <find>clickOnTheProductSize</find>
+      <find>lblRequredFeild</find>
+      <find>clicks</find>
+      <find>clickr</find>
+      <find>btndeleteItemButton</find>
+      <find>Slo</find>
+      <find>btnSlogan</find>
+      <find>fri</find>
+      <find>lblProductNameFromShoppingCart</find>
+      <find>proc</find>
+      <find>getNameOfTheProduct()</find>
+      <find>addp</find>
+      <find>getPriceofProduct()</find>
+      <find>numberOfItem()</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/Login.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/LoginPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/NavigateToLogin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/myAccount/myAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/ShppingCart/ShppingCart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/ShoppingCart/ShppingCart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/LandingPage/LandingPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/ProductDetailVeiw/ProductDetailVeiw.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/CheckoutVeiw/CheckoutVeiw.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/NavigateToMyAccount.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/syscolabs/assignment_01/tests/MyAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/LoginPage/LoginPage1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/CartView/CartView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/utils/LoggerUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/common/Constants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/myAccount/myAccountPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/syscolabs/assignment_01/utils/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/Login1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/LoginPage1/LoginPage1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/ShoppingCart/ShoppingCart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/ShoppingCart/ShoppingCartPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/ShoppingCart.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/syscolabs/assignment_01/tests/MyAccountTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/HomePage/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/Login.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/MyAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/Home.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/syscolabs/assignment_01/tests/LoginTest1.java" />
       </list>
-    </option>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="C:\Users\Uwic1175\.m2\repository" />
-      </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -173,12 +288,16 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Assignment_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment_01" type="462c0819:PsiDirectoryNode" />
               <item name="Assignment_01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -206,6 +325,24 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="assignment_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment_01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment_01" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment_01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment_01" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Assignment_01" type="b2602c69:ProjectViewProjectNode" />
@@ -233,7 +370,71 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="assignment_01" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="LandingPage" type="462c0819:PsiDirectoryNode" />
+              <item name="CreditCardInfomation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment_01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment_01" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="HomePage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment_01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment_01" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="LoginPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment_01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment_01" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="myAccount" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment_01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment_01" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="ShoppingCart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment_01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment_01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="chrome_driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment_01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="chrome_driver" type="462c0819:PsiDirectoryNode" />
+              <item name="windows" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Assignment_01" type="b2602c69:ProjectViewProjectNode" />
@@ -265,24 +466,21 @@
               <item name="assignment_01" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Assignment_01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Assignment_01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment_01" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542801735858" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544177224953" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/crms_frontend_auto" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.syscolabs.assignment_01.utils" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -296,8 +494,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.LoginTest.testLogin">
-    <configuration name="LoginTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.MyAccountTest (1)">
+    <configuration name="LoginTest1" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Assignment_01" />
       <extension name="coverage">
         <pattern>
@@ -306,7 +504,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.syscolabs.assignment_01.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.syscolabs.assignment_01.tests.LoginTest" />
+      <option name="MAIN_CLASS_NAME" value="com.syscolabs.assignment_01.tests.LoginTest1" />
       <properties />
       <listeners />
       <method v="2">
@@ -331,42 +529,129 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyAccountTest (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Assignment_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syscolabs.assignment_01.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.syscolabs.assignment_01.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.syscolabs.assignment_01.tests.MyAccountTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyAccountTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Assignment_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syscolabs.assignment_01.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.syscolabs.assignment_01.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.syscolabs.assignment_01.tests.MyAccountTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyAccountTest.testVerifyUserName" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Assignment_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syscolabs.assignment_01.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.syscolabs.assignment_01.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.syscolabs.assignment_01.tests.MyAccountTest" />
+      <option name="METHOD_NAME" value="testVerifyUserName" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="TestNG.LoginTest.testLogin" />
-      <item itemvalue="TestNG.LoginTest" />
+      <item itemvalue="TestNG.MyAccountTest" />
+      <item itemvalue="TestNG.MyAccountTest.testVerifyUserName" />
+      <item itemvalue="TestNG.LoginTest1" />
+      <item itemvalue="TestNG.MyAccountTest (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.MyAccountTest (1)" />
+        <item itemvalue="TestNG.LoginTest1" />
+        <item itemvalue="TestNG.MyAccountTest.testVerifyUserName" />
+        <item itemvalue="TestNG.MyAccountTest" />
         <item itemvalue="TestNG.LoginTest.testLogin" />
-        <item itemvalue="TestNG.LoginTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a10323bb-0f8d-4c77-bbd2-c79733bf8970" name="Default Changelist" comment="" />
-      <created>1542791972722</created>
+      <changelist id="cc1b777d-cfb7-4d83-87b9-dafaaf44a17c" name="Default Changelist" comment="" />
+      <created>1542804559463</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1542791972722</updated>
+      <updated>1542804559463</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LoginTest_testLogin - 2018.11.21 at 15h 27m 22s.xml">
-      <configuration name="LoginTest.testLogin" configurationId="TestNG" />
+    <history-entry file="MyAccountTest_(1) - 2018.12.07 at 11h 46m 43s.xml">
+      <configuration name="MyAccountTest (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2018.11.21 at 15h 33m 16s.xml">
-      <configuration name="LoginTest" configurationId="TestNG" />
+    <history-entry file="MyAccountTest_(1) - 2018.12.07 at 11h 54m 46s.xml">
+      <configuration name="MyAccountTest (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest_testLogin - 2018.11.21 at 17h 08m 50s.xml">
-      <configuration name="LoginTest.testLogin" configurationId="TestNG" />
+    <history-entry file="MyAccountTest_(1) - 2018.12.07 at 11h 57m 22s.xml">
+      <configuration name="MyAccountTest (1)" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="MyAccountTest_(1) - 2018.12.07 at 12h 04m 23s.xml">
+      <configuration name="MyAccountTest (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MyAccountTest_(1) - 2018.12.07 at 12h 08m 27s.xml">
+      <configuration name="MyAccountTest (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MyAccountTest_(1) - 2018.12.07 at 12h 40m 45s.xml">
+      <configuration name="MyAccountTest (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MyAccountTest_(1) - 2018.12.07 at 12h 43m 50s.xml">
+      <configuration name="MyAccountTest (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MyAccountTest_(1) - 2018.12.07 at 13h 58m 45s.xml">
+      <configuration name="MyAccountTest (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MyAccountTest_(1) - 2018.12.07 at 14h 05m 58s.xml">
+      <configuration name="MyAccountTest (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MyAccountTest_(1) - 2018.12.07 at 15h 02m 42s.xml">
+      <configuration name="MyAccountTest (1)" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25642672" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25578406" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -374,16 +659,16 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32916668" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3402778" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32916668" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -393,82 +678,521 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25578406" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32916668" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3402778" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32916668" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding Test Scripts for Assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Test Scripts for Assignment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/syscolabs/assignment_01/utils/TestBase.java</url>
-          <line>42</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/ShoppingCart/ShoppingCartPage.java</url>
+          <line>34</line>
           <properties />
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="134" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/syscolabs/assignment_01/tests/LoginTest.java</url>
-          <line>23</line>
+          <url>file://$PROJECT_DIR$/src/test/java/com/syscolabs/assignment_01/tests/MyAccountTest.java</url>
+          <line>75</line>
           <properties />
-          <option name="timeStamp" value="3" />
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/HomePage/HomePage.java</url>
+          <line>205</line>
+          <properties />
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/HomePage/HomePage.java</url>
+          <line>224</line>
+          <properties />
+          <option name="timeStamp" value="140" />
         </line-breakpoint>
       </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
     </breakpoint-manager>
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>syscoLabUIOgm.getText(lblCartPriceInCreditCardPage )</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>objHomePage.getproductNameFromtheCreditCardPage()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>syscoLabUIOgm.isDisplayed(txtExpirationMonth)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>syscoLabUIOgm.isDisplayed(By.xpath(&quot;(//span[contains(text(),'Card Number')])[1]&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>syscoLabUIOgm.isDisplayed(By.xpath(&quot;//*[@id='credit-card-number']&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>syscoLabUIOgm.isDisplayed(txtCardNumber)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>syscoLabUIOgm.click(checkBoxAuthorityToleave)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>return this.findElement(by).isDisplayed();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>syscoLabUIOgm.scrollToElement(By.xpath(&quot;//a[@title='&quot; + Productname + &quot;']&quot;));</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10-sources.jar!/org/testng/IAttributes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        <state relative-caret-position="289">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/LoginPage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/ProductDetailVeiw/ProductDetailVeiw.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/NavigateToMyAccount.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10-sources.jar!/org/testng/Assert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="331">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/LandingPage/LandingPage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/utils/DateUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/syscolabs/assignment_01/tests/LoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/utils/ExcelUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="289">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/sysco/qe/qe_core/0.0.2/qe_core-0.0.2.jar!/com/syscolab/qe/core/reporting/SyscoLabListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/LandingPage/LandingPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10-sources.jar!/org/testng/internal/TestResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="206" selection-start-line="206" selection-end-line="206" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/utils/LoggerUtil.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/CartView/CartView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/CheckoutVeiw/CheckoutVeiw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/sysco/qe/qe_core/0.0.2/qe_core-0.0.2.jar!/com/syscolab/qe/core/ui/web/SyscoLabWUI.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10-sources.jar!/org/testng/annotations/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1373">
+          <caret line="180" column="6" selection-start-line="180" selection-start-column="6" selection-end-line="180" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/utils/DriverSetUpUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/sysco/qe/qe_core/0.0.2/qe_core-0.0.2.jar!/com/syscolab/qe/core/reporting/SyscoLabReporting.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/data/LoginData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10-sources.jar!/org/testng/TestNG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="1063" selection-start-line="1063" selection-end-line="1063" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10-sources.jar!/org/testng/SuiteRunnerWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+          <folding>
+            <element signature="e#2713#2714#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10-sources.jar!/org/testng/SuiteRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="270" selection-start-line="270" selection-end-line="270" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10-sources.jar!/org/testng/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="635" selection-start-line="635" selection-end-line="635" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10-sources.jar!/org/testng/internal/TestMethodWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10-sources.jar!/org/testng/internal/Invoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="1188" selection-start-line="1188" selection-end-line="1188" />
+          <folding>
+            <element signature="e#26929#26942#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/common/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/myAccount/myAccountPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/LoginPage/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.IdeaIC2018.2/system/temp-testng-customsuite.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/sysco/qe/qe_core/0.0.2/qe_core-0.0.2.jar!/com/syscolab/qe/core/ui/SyscoLabUI.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="e#1716#1717#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.4.0/selenium-api-3.4.0.jar!/org/openqa/selenium/By.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="182" selection-start-line="182" selection-end-line="182" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.4.0/selenium-remote-driver-3.4.0.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="442" selection-start-line="442" selection-end-line="442" />
+          <folding>
+            <element signature="e#12738#12739#0" expanded="true" />
+            <element signature="e#12781#12782#0" expanded="true" />
+            <element signature="e#16652#16653#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10-sources.jar!/org/testng/internal/MethodInvocationHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/ShoppingCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+            <element signature="e#826#827#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#1600#1601#0" expanded="true" />
+            <element signature="e#1633#1634#0" expanded="true" />
+            <element signature="e#1711#1712#0" expanded="true" />
+            <element signature="e#1764#1765#0" expanded="true" />
+            <element signature="e#1833#1834#0" expanded="true" />
+            <element signature="e#1890#1891#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/syscolabs/assignment_01/utils/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="42" column="50" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="50" />
+        <state relative-caret-position="127">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/Login.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="459">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/syscolabs/assignment_01/tests/MyAccountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="64" column="27" lean-forward="true" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/MyAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/CreditCardInfomation/CreditCardInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/ShoppingCart/ShoppingCartPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3120#3121#0" expanded="true" />
+            <element signature="e#3197#3198#0" expanded="true" />
+            <element signature="e#4103#4104#0" expanded="true" />
+            <element signature="e#4157#4158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/pages/HomePage/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="242" column="33" selection-start-line="242" selection-start-column="33" selection-end-line="242" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4323#4324#0" expanded="true" />
+            <element signature="e#4380#4381#0" expanded="true" />
+            <element signature="e#6504#6505#0" expanded="true" />
+            <element signature="e#6578#6579#0" expanded="true" />
+            <element signature="e#5547#5548#0" expanded="true" />
+            <element signature="e#5620#5621#0" expanded="true" />
+            <element signature="e#7083#7084#0" expanded="true" />
+            <element signature="e#7144#7145#0" expanded="true" />
+            <element signature="e#10169#10170#0" expanded="true" />
+            <element signature="e#10232#10233#0" expanded="true" />
+            <element signature="e#10611#10612#0" expanded="true" />
+            <element signature="e#10687#10688#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-933">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1935#1936#0" expanded="true" />
+            <element signature="e#1986#1987#0" expanded="true" />
+            <element signature="e#2049#2050#0" expanded="true" />
+            <element signature="e#2112#2113#0" expanded="true" />
+            <element signature="e#4190#4191#0" expanded="true" />
+            <element signature="e#4220#4221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syscolabs/assignment_01/functions/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/syscolabs/assignment_01/tests/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/syscolabs/assignment_01/tests/LoginTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
